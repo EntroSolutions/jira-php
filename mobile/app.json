@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "name": "Local Bulgarian Tour",
+    "slug": "local-bulgarian-tour",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "scheme": "lbt",
+    "userInterfaceStyle": "automatic",
+    "platforms": ["ios", "android"],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.localbulgariantour.app"
+    },
+    "android": {
+      "package": "com.localbulgariantour.app",
+      "adaptiveIcon": {
+        "backgroundColor": "#00994D"
+      }
+    },
+    "plugins": ["expo-router"],
+    "experiments": {
+      "typedRoutes": true
+    }
+  }
+}
