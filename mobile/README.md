@@ -31,15 +31,15 @@ Expo Go on your phone.
 
 ## Scripts
 
-| Script             | Purpose                          |
-| ------------------ | -------------------------------- |
-| `npm start`        | Expo dev server                  |
-| `npm run android`  | Start on Android                 |
-| `npm run ios`      | Start on iOS                     |
-| `npm run typecheck`| `tsc --noEmit` (strict)          |
-| `npm run lint`     | ESLint (expo + prettier rules)   |
-| `npm run format`   | Prettier write                   |
-| `npm run test`     | Jest (jest-expo)                 |
+| Script              | Purpose                        |
+| ------------------- | ------------------------------ |
+| `npm start`         | Expo dev server                |
+| `npm run android`   | Start on Android               |
+| `npm run ios`       | Start on iOS                   |
+| `npm run typecheck` | `tsc --noEmit` (strict)        |
+| `npm run lint`      | ESLint (expo + prettier rules) |
+| `npm run format`    | Prettier write                 |
+| `npm run test`      | Jest (jest-expo)               |
 
 ## Conventions
 
